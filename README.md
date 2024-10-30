@@ -1,6 +1,6 @@
 # LLM-Detection using DeBERTa-v3
 
-A deep learning solution for detecting AI-generated text using fine-tuned DeBERTa-v3 model. This project aims to distinguish between human-written and AI-generated text content[1].
+A deep learning solution for detecting AI-generated text using fine-tuned DeBERTa-v3 model. This project aims to distinguish between human-written and AI-generated text content.
 
 ## Problem Overview
 
